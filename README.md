@@ -9,7 +9,6 @@ This Python script creates a simple alarm clock using the Tkinter GUI library. I
 - [Installation](#installation)
 - [Features](#features)
 - [Usage](#usage)
-- [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
 
