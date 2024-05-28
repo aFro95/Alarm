@@ -1,6 +1,7 @@
 # Alarm
 
 This Python script creates a simple alarm clock using the Tkinter GUI library. It allows users to set an alarm time and plays a sound when the set time is reached.
+<img src="alarm.png" alt="Alarm" style="width: 500px; height: 500px">
 
 ## Table of Contents
 
