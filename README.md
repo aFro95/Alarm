@@ -26,7 +26,7 @@ No additional libraries required: This script only requires the built-in Tkinter
 
 1. Run the Script: Execute the script using Python:
 ```bash
-python alarm.py
+python Alarm.py
 ```
 2. Set the Alarm: Enter the desired alarm time in the format (Hour:Minute:Seconds) and click the "Set Alarm" button.
 
